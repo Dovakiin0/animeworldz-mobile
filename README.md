@@ -1,7 +1,7 @@
 # Animeworldz now ports to mobile
 
 This is the new version of mobile application of [animeworldz](https://github.com/Dovakiin0/animeworldz)  
-There is only pre-release version currently which does have basic functionality that lets you watch any episode. Head over to releases to download the app.  
+Currently at beta version. click [here](https://github.com/Dovakiin0/animeworldz-mobile/releases/download/beta/AnimeWorldz.apk) to download
 
 Also, here's the discord server if you ever want to reach out or discuss something  
 https://discord.gg/RNADXBTvcx
