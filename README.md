@@ -9,3 +9,7 @@ https://discord.gg/RNADXBTvcx
 stream your favourite anime wherever you go  
 Created using Flutter
 
+# Screenshots
+|   |   |
+|---|---|
+| <img src="ss1.jpg" height="500"/>  | <img src="ss2.jpg" height="500"/>  |
