@@ -4,7 +4,7 @@ This is the new version of mobile application of [animeworldz](https://github.co
 Currently at beta version. click [here](https://github.com/Dovakiin0/animeworldz-mobile/releases/download/stable/AnimeWorldz.apk) to download
 
 stream your favourite anime wherever you go  
-Created using Flutter
+Created using Flutter. Checkout [Animeworldz-flutter](https://github.com/Dovakiin0/animeworldz-flutter). Docs will be provided soon
 
 # Screenshots
 |   |   |
