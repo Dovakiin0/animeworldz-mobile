@@ -1,3 +1,7 @@
+# Notice: The development of this app has been stopped!!!
+Note that the app still works fine but there will be no any future updates.
+
+
 # Animeworldz now ports to mobile
 
 This is the new version of mobile application of [animeworldz](https://github.com/Dovakiin0/animeworldz)  
